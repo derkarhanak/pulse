@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Pulse
+GenericName=System Monitor
+Comment=See what's using your memory, processor and graphics card
+Exec=pulse
+Icon=io.github.samsyk.Pulse
+Terminal=false
+Categories=System;Monitor;GTK;
+Keywords=memory;ram;cpu;gpu;vram;task;process;monitor;
+StartupNotify=true
